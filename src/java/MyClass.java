@@ -50,6 +50,15 @@ public class MyClass implements SessionBean {
             System.out.println("Value:" + c);
             System.out.println("Value:" + c);
             System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
+            System.out.println("Value:" + c);
         } catch(Exception e){
         
         }
